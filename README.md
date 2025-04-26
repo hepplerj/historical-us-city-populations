@@ -3,7 +3,7 @@
 This dataset is a compilation of United States historical city populations decennially between 1790 and 2010. We are putting all of the data into a single repository so it can be accessible and improved upon by other researchers.
 
 Erik Steiner, [Spatial History Project][], [Center for Spatial and Textual Analysis][], Stanford University  
-Jason A. Heppler, [Department of History][] and [UNO Libraries][], University of Nebraska at Omaha
+Jason A. Heppler, [Roy Rosenzweig Center for History and New Media][], George Mason University
 
 ## Description of the Data
 
@@ -51,7 +51,6 @@ Any code or scripts that appear here are available under the MIT License. Script
 
   [Spatial History Project]: http://spatialhistory.stanford.edu
   [Center for Spatial and Textual Analysis]: http://cesta.stanford.edu
-  [Department of History]: http://history.unomaha.edu
-  [UNO Libraries]: http://library.unomaha.edu
+  [Roy Rosenzweig Center for History and New Media]: http://rrchnm.org
   [Erik Steiner]: mailto:ebs110@stanford.edu
-  [Jason Heppler]: mailto:jheppler@unomaha.edu
+  [Jason Heppler]: mailto:jason@jasonheppler.org
